@@ -4,7 +4,7 @@
 
 The Student Attendance Management System is a software application designed to help educational institutions manage and track student attendance efficiently. It allows authorized users to record attendance, view attendance reports, and monitor students' attendance records in an organized and reliable way.
 
-## Group Members
+## Group Members                                           
 
 1. **Full Name:** ABDUREHIM SEID  
    **Student ID:** WOUR/0013/17
@@ -20,3 +20,4 @@ The Student Attendance Management System is a software application designed to h
 
 5. **Full Name:** ALEMAYEHU BIRIHANU  
    **Student ID:** WOUR/0871/17
+   **GitHub Username:** AlexNexora10
