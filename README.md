@@ -18,7 +18,8 @@ The Student Attendance Management System is a software application designed to h
 
 5. **Full Name:** NEIMA NURU  
    **Student ID:** WOUR/1761/17
+ **GitHub Username:** Neima-web21
 
-6. **Full Name:** ALEMAYEHU BIRIHANU  
+7. **Full Name:** ALEMAYEHU BIRIHANU  
    **Student ID:** WOUR/0871/17
    **GitHub Username:** AlexNexora10
