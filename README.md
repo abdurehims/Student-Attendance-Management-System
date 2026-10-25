@@ -2,28 +2,30 @@
 
 ## Project Description
 
-The Student Attendance Management System is a software application designed to help educational institutions manage and track student attendance efficiently. It allows authorized users to record attendance, view attendance reports, and monitor students' attendance records in an organized and reliable way.
+The **Student Attendance Management System** is a software application designed to help educational institutions manage and track student attendance efficiently. It allows authorized users to record attendance, view attendance reports, and monitor students' attendance records in an organized and reliable way.
 
-## Group Members                                           
+## Group Members
 
-1. **Full Name:** ABDUREHIM SEID  
-   **Student ID:** WOUR/0013/17
+### 1. ABDUREHIM SEID
+- **Student ID:** WOUR/0013/17
+- **GitHub Username:** [@abdurehims](https://github.com/abdurehims)
 
-2. **Full Name:** EBRAHIM YASIN  
-   **Student ID:** WOUR/1194/17
-   **GitHub Username:** ebrahimyasin886
+### 2. EBRAHIM YASIN
+- **Student ID:** WOUR/1194/17
+- **GitHub Username:** [@ebrahimyasin886](https://github.com/ebrahimyasin886)
 
-4. **Full Name:** MUBAREK ALI  
-   **Student ID:** WOUR/0471/17
-  **GitHub Username: ** mubarekali2
+### 3. MUBAREK ALI
+- **Student ID:** WOUR/0471/17
+- **GitHub Username:** [@mubarekali2](https://github.com/mubarekali2)
 
-6. **Full Name:** NEIMA NURU  
-   **Student ID:** WOUR/1761/17
- **GitHub Username:** Neima-web21
+### 4. NEIMA NURU
+- **Student ID:** WOUR/1761/17
+- **GitHub Username:** [@Neima-web21](https://github.com/Neima-web21)
 
-7. **Full Name:** ALEMAYEHU BIRIHANU  
-   **Student ID:** WOUR/0871/17
-   **GitHub Username:** AlexNexora10
-8.**Full Name:** Eden kifle  
-   **Student ID:** WOUR/0209/17
-   **GitHub Username:** eden0223
+### 5. ALEMAYEHU BIRIHANU
+- **Student ID:** WOUR/0871/17
+- **GitHub Username:** [@AlexNexora10](https://github.com/AlexNexora10)
+
+### 6. EDEN KIFLE
+- **Student ID:** WOUR/0209/17
+- **GitHub Username:** [@eden0223](https://github.com/eden0223)
